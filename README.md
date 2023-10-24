@@ -1,24 +1,8 @@
-# Olá, sou Fernando!
-
-![Profile Views](https://komarev.com/ghpvc/?username=NandoSchlemper)
-[![GitHub Followers](https://img.shields.io/github/followers/NandoSchlemper?label=Seguidores&style=social)](https://github.com/NandoSchlemper)
-[![GitHub Stars](https://img.shields.io/github/stars/NandoSchlemper?label=Estrelas&style=social)](https://github.com/NandoSchlemper)
-
-## Sobre mim
-- 👨‍💻 Desenvolvedor apaixonado por dados
-- 📚 Experiente em SQL, Machine Learning e Python
-- 🎓 Bacharel em Ciência da Computação (em processo)
-
-## Conhecimentos
-- 💼 Desenvolvimento Web
-- 📊 Data Science e Machine Learning
-- 🐍 Python
-- 🗃️ SQL
-
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=NandoSchlemper&show_icons=true)
-
-## Contato
-- 📧 [Email](mailto:seuemail@email.com)
--
-
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NandoSchlemper&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoSchlemper&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoSchlemper&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NandoSchlemper&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p>
