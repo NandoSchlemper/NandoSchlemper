@@ -17,6 +17,6 @@ Sou um desenvolvedor me especializando em Natural Language Processing (NLP) e Ma
 </p>
 
 ## 📫 Contato:
-- **Email**: [seuemail@example.com](mailto:seuemail@example.com)
-- **LinkedIn**: [Seu Perfil](https://www.linkedin.com/in/seuperfil/)
+- **Email**: [bkschlemper@gmail.com](bkschlemper@gmail.com)
+- **LinkedIn**: [Fernando Meurer Schlemper](www.linkedin.com/in/fernando-meurer-33662a277)
 - **GitHub**: [NandoSchlemper](https://github.com/NandoSchlemper)
