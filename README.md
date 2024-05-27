@@ -3,8 +3,10 @@ Sou um desenvolvedor me especializando em Natural Language Processing (NLP) e Ma
 
 ## 🚀 Tecnologias e Ferramentas:
 - **Python**: Principal linguagem para desenvolvimento de modelos de Machine Learning e NLP.
-- **Jupyter Notebook**: Experimentacao e desenvolvimento de prototipos.
-- **Rust**: Otimizacao do backend de aplicacoes para integracao com IA.
+- **Flask**: Criação de APIs para Deploy de modelos em larga escala com IA.
+- **Pytorch & Pytorch Lightning**: Desenvolvimento e implementação de pesquisas coom modelos de IA.
+- **Golang**: Otimização de RESTful APis para Deploy de pequenos modelos de IA.]
+- **Docker**: Aplicação de containers em projetos Machine Learning.
 
 ## 📊 Minhas Estatísticas do GitHub:
 <p align="center">
