@@ -1,11 +1,10 @@
 ## 👨‍💻 Sobre mim:
-Sou um desenvolvedor me especializando em Natural Language Processing (NLP) e Machine Learning Operations (MLOps), com interesse em combinar Python, Jupyter e Rust para criar soluções de IA eficientes e escaláveis.
+Sou um desenvolvedor me especializando em Backend para integracoes de Ingeligencia Artificial em empresas, com linguagem predominante sendo Rust!
 
 ## 🚀 Tecnologias e Ferramentas:
-- **Python**: Principal linguagem para desenvolvimento de modelos de Machine Learning e NLP.
-- **Flask**: Criação de APIs para Deploy de modelos em larga escala com IA.
+- **Python**: Avancado em Python, para tarefas de automacao ou que envolvam um ecossistema maior.
+- **Flask**: Criação de API's de uma maneira mais agil e eficiente.
 - **Rust**: Desenvolvimento web com segurança de memória e performance.
-- **Golang**: Otimização de RESTful APis para Deploy de pequenos modelos de IA.]
 - **Docker**: Aplicação de containers em projetos Machine Learning.
 
 ## 📊 Minhas Estatísticas do GitHub:
