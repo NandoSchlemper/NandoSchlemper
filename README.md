@@ -1,11 +1,11 @@
-## 👨‍💻 Sobre mim:
-Sou um desenvolvedor me especializando em Backend para integracoes de Ingeligencia Artificial em empresas, com linguagem predominante sendo Rust!
+## 👨‍💻 Sobre Mim:
+Sou um desenvolvedor especializado em Backend para integrações de Inteligência Artificial em empresas, utilizando principalmente a linguagem Rust.
 
 ## 🚀 Tecnologias e Ferramentas:
-- **Python**: Avancado em Python, para tarefas de automacao ou que envolvam um ecossistema maior.
-- **Flask**: Criação de API's de uma maneira mais agil e eficiente.
+- **Python**: Avançado em Python para tarefas de automação ou que envolvam um ecossistema maior.
+- **Flask**: Criação de APIs de maneira ágil e eficiente.
 - **Rust**: Desenvolvimento web com segurança de memória e performance.
-- **Docker**: Aplicação de containers em projetos Machine Learning.
+- **Docker**: Aplicação de containers em projetos de Machine Learning.
 
 ## 📊 Minhas Estatísticas do GitHub:
 <p align="center">
@@ -18,6 +18,6 @@ Sou um desenvolvedor me especializando em Backend para integracoes de Ingeligenc
 </p>
 
 ## 📫 Contato:
-- **Email**: [bkschlemper@gmail.com](bkschlemper@gmail.com)
-- **LinkedIn**: [Fernando Meurer Schlemper](www.linkedin.com/in/fernando-meurer-33662a277)
+- **Email**: [bkschlemper@gmail.com](mailto:bkschlemper@gmail.com)
+- **LinkedIn**: [Fernando Meurer Schlemper](https://www.linkedin.com/in/fernando-meurer-33662a277)
 - **GitHub**: [NandoSchlemper](https://github.com/NandoSchlemper)
