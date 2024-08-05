@@ -3,9 +3,9 @@ Sou um desenvolvedor especializado em Backend para integrações de Inteligênci
 
 ## 🚀 Tecnologias e Ferramentas:
 - **Python**: Avançado em Python para tarefas de automação ou que envolvam um ecossistema maior.
-- **Flask**: Criação de APIs de maneira ágil e eficiente.
-- **Rust**: Desenvolvimento web com segurança de memória e performance.
-- **Docker**: Aplicação de containers em projetos de Machine Learning.
+- **Golang**: Criação de APIs de maneira ágil e eficiente.
+- **Rust**: Desenvolvimento de aplicações CLI com maior segurança e performance.
+- **Docker**: Padronização das aplicações
 
 ## 📊 Minhas Estatísticas do GitHub:
 <p align="center">
