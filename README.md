@@ -3,6 +3,7 @@ Sou um desenvolvedor especializado em Backend para integrações de Inteligênci
 
 ## 🚀 Tecnologias e Ferramentas:
 - **Python**: Avançado em Python para tarefas de automação ou que envolvam um ecossistema maior.
+- **JavaScript & TypeScript**: Criação tanto de APis como de interfaces (react + Express)
 - **Golang**: Criação de APIs de maneira ágil e eficiente.
 - **Rust**: Desenvolvimento de aplicações CLI com maior segurança e performance.
 - **Docker**: Padronização das aplicações
