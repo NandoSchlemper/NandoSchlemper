@@ -2,10 +2,7 @@
 Sou um desenvolvedor especializado em Backend para integrações de Inteligência Artificial em empresas, utilizando principalmente a linguagem Rust.
 
 ## 🚀 Tecnologias e Ferramentas:
-- **Python**: Avançado em Python para tarefas de automação ou que envolvam um ecossistema maior.
 - **JavaScript & TypeScript**: Criação tanto de APis como de interfaces (react)
-- **Golang**: Criação de APIs de maneira ágil e eficiente.
-- **Rust**: Desenvolvimento de aplicações CLI com maior segurança e performance. (CI/CD)
 - **Docker**: Padronização das aplicações
 
 ## 📊 Minhas Estatísticas do GitHub:
