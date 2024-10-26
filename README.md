@@ -4,6 +4,7 @@ Sou um desenvolvedor especializado em Backend para integrações de Inteligênci
 ## 🚀 Tecnologias e Ferramentas:
 - **JavaScript & TypeScript**: Criação tanto de APis como de interfaces (react)
 - **Docker**: Padronização das aplicações
+- **Godot**: Desenvolvedor de jogos índie
 
 ## 📊 Minhas Estatísticas do GitHub:
 <p align="center">
