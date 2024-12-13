@@ -1,11 +1,3 @@
-## 👨‍💻 Sobre Mim:
-Sou um desenvolvedor especializado em Backend para integrações de Inteligência Artificial em empresas, utilizando principalmente a linguagem Rust.
-
-## 🚀 Tecnologias e Ferramentas:
-- **JavaScript & TypeScript**: Criação tanto de APis como de interfaces (react)
-- **Docker**: Padronização das aplicações
-- **Godot**: Desenvolvedor de jogos índie
-
 ## 📊 Minhas Estatísticas do GitHub:
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=NandoSchlemper&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00500700">
